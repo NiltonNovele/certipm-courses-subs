@@ -13,12 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CertiPM - Courses",
+  title: "Register - CertiPM",
   description: "Get started with one of our Project Management Courses.",
   icons: {
-    icon: "/logored.png",       // path to your logo (favicon)
-    shortcut: "/logored.png",   // optional shortcut icon
-    apple: "/logored.png",      // for Apple devices
+    icon: "/logored.png",    
+    shortcut: "/logored.png",   
+    apple: "/logored.png",      
   },
 };
 
