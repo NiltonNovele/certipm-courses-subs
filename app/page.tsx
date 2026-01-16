@@ -138,7 +138,7 @@ export default function Page() {
             </p>
           </div>
 
-          <form action="https://formsubmit.co/patricioinaciodba@gmail.com" method="POST" className="grid gap-4">
+          <form action="https://formsubmit.co/patricioinaciodba@gmail.com" method="POST" className="grid gap-4"> {/* patricioinaciodba@gmail.com */}
             {/* Name Fields */}
             <div className="grid gap-3 md:grid-cols-3">
               {["firstName", "middleName", "lastName"].map((field) => (
